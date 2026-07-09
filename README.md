@@ -6,7 +6,7 @@
   <img src="cover.png" alt="200 AI Prompts for Estate Agents" width="380">
 </p>
 
-**📄 [Download the polished PDF](200-AI-Prompts-for-Estate-Agents.pdf)** · **🔎 [Get a free AI Business Diagnostic](https://swarmaisystems.com/start)** · **🌐 [swarmaisystems.com](https://swarmaisystems.com/estate-agents.html)**
+**📄 [Download the polished PDF](200-AI-Prompts-for-Estate-Agents.pdf)** · **🔎 [Get a free AI Business Diagnostic](https://swarmaisystems.com/start)** · **🌐 [swarmaisystems.com](https://swarmaisystems.com/estate-agents.html)** · **🖥 [Read it as a web page](https://thehiveai2026-dev.github.io/ai-prompts-for-estate-agents/)**
 
 ---
 
